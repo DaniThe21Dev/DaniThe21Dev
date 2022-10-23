@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaniThe21Dev
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java & JS
 - 📫 You can use my mods from https://dsc.gg/qolskyblock
